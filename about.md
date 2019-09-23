@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-__SUSIE XI RAO / RESEARCHER / PHD CANDIDATE__
+__SUSIE XI RAO / RESEARCHER / PHD CANDIDATE__<br>
 _Systems Group / Department of Computer Science // KOF Swiss Economic Institute/ ETH Zurich_
 
 With a background in Computational Linguistics and Natural Language Processing, Susie Rao is now working as a Data Science researcher at the Swiss Economic Institute (KOF) and a PhD candidate at the DS3Lab under the co-supervision Prof. Ce Zhang (technical) and Prof. Peter Egger (domain). She graduated from the Institute of Computational Linguistics of the University of Zurich.
