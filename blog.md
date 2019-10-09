@@ -6,7 +6,8 @@ permalink: /blog/
 What's going on in my research and life ... 
 ### Academic
 <p style="text-align: center;"></p>
-** Course preparation with Peter on economic network analysis, primarily based on Newman 2018 "Networks" and Jackson 2010 "Social and Economic Networks". Review of these two books coming up soon. 
+**Course preparation with Peter on economic network analysis, primarily based on Newman 2018 "Networks" and Jackson 2010 "Social and Economic Networks". Review of these two books coming up soon.**
+
 ### Life
 My son was born in May 2019. After a four-month maternity leave, I am back to work. 
 **Books to recommend for preganancy and nursing:**
