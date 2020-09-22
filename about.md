@@ -11,7 +11,7 @@ With a background in Computational Linguistics and Natural Language Processing, 
 
 Her research interests are dynamic network analysis, information extraction, natural language processing and their applicability to various domains such as applied economics, sociology, and biomedical.
 
-She has been working on the following research projects: pattern matching and record linkage in large databases (finalized), information extraction and categorization in legal text such as international investment treaties and court cases (finalized), data analytics and machine learning with Chinese clinical and patient health data (ongoing), topology and endogeneity of firm-product-trade network and discipline connectedness in the Web of Science (ongoing).
+She has been working on the following research projects: pattern matching and record linkage in large databases (finalized), information extraction and categorization in legal text such as international investment treaties and court cases (finalized), topology and endogeneity of firm-product-trade network and discipline connectedness in the Web of Science (ongoing).
 
 For more infomation about DS3Lab, visit [ds3lab.org](ds3lab.org)<br>
 For more infomation about KOF, visit [www.kof.ethz.ch/](www.kof.ethz.ch/)
