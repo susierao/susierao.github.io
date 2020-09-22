@@ -128,7 +128,7 @@
       "notes": "",
       "timeoutMs": 0,
       "timeoutEnable": false,
-      "transitionDurationMs": 2000,
+      "transitionDurationMs": 1500,
       "showInFrameList": true,
       "showFrameNumber": true,
       "layerProperties": {
@@ -309,7 +309,7 @@
   ],
   "elementsToHide": [],
   "selectedFrames": [
-    "frame9142"
+    "frame4493"
   ],
   "selectedLayers": [
     "__sozi_auto__"
