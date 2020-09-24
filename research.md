@@ -47,7 +47,7 @@ permalink: /research/
 
 ### [Master thesis/Semester project](https://systems.ethz.ch/education/master-and-bachelor-theses.html)
 * Ongoing: Livio Kaiser, *table element detection with weak supervision support from Excel data*, joint supervision with Johannes Rausch.
-* Open: fraud detection on large-scale heterogeneous graph
+* Open: fraud detection on large-scale heterogeneous graph (see [proposal](/images/202009MT_graph.pdf))
 
 ### My master thesis
 Rao, Xi. Automatic Labeling of Articles in International Investment Agreements : Using Semi-supervised Learning and Word Embeddings (2017). ([Link](https://snis.ch/wp-content/uploads/2018/02/Masterarbeit_XRao_FS2017.pdf))
