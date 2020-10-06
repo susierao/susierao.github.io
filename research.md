@@ -13,7 +13,7 @@ permalink: /research/
 
 ### Publication
 * <p style="text-align: jutify;">Li, Peng; Xi, Rao; Jennifer, Blasé; Yue, Zhang; Xu, Chu; Ce, Zhang. CleanML: A Benchmark for Joint Data Cleaning and Machine Learning [Experiments and Analysis]. arXiv preprint arXiv:1904.09483 (2019).</p>
-	- Submission at ICDE 2021, revise and resubmit, [update](https://github.com/chu-data-lab/CleanML).
+	- Accepted at ICDE 2021, see [update](https://github.com/chu-data-lab/CleanML).
 
 * <p style="text-align: jutify;">Rao, Xi; Parijat, Ghoshal (2019). Normalization of Shorthand Form in French Text Messages using Word Embedding and Machine Translation. Presentation at the International Symposium Parallel Corpora: Creation and Applications (PaCor), Santiago de Compostela, Spain, 1 - 3 Dec 2016; chapter published in Parallel Corpora for Contrastive and Translation Studies: New resources and applications, edited by Irene Doval and M. Teresa Sánchez Nieto, 2019, pp. 281-298.</p>
 
