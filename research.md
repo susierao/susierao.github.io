@@ -7,7 +7,7 @@ permalink: /research/
 ### Ongoing
 * Understanding the connectedness amongst disciplines, [project poster](/images/2020_wos_poster_raox_reduced.pdf).
 * [EconMultiplex – Multiplex Networks in International Trade](https://datascience.ch/project/econmultiplex-multiplex-networks-in-international-trade/) in collaboration with [Swiss Data Science Center](https://datascience.ch/), Principal Investigator: Prof. Dr. Egger Peter.
-  1. New Algorithm For Matching Chinese NBS Firm-level With Customs Data (with Peter Egger and Sebastiano Papini), China Economic Journal, forthcoming 2021.
+  1. New Algorithm For Matching Chinese NBS Firm-level With Customs Data (with Peter Egger and Sebastiano Papini), China Economic Journal, forthcoming 2021, Taylor & Francis.
 
 * Collaboration with Ebay on fraud detection projects, three papers (one under review, two published).
 	1. [DeGNN](https://arxiv.org/abs/1910.04499), accepted at KDD 2021.
