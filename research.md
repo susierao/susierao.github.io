@@ -78,5 +78,5 @@ permalink: /research/
 
 ### My master thesis
 Rao, Xi. Automatic Labeling of Articles in International Investment Agreements : Using Semi-supervised Learning and Word Embeddings (2017). ([Link](https://snis.ch/wp-content/uploads/2018/02/Masterarbeit_XRao_FS2017.pdf))
-	* A contribution to https://edit.wti.org/treaty/publications
+  * A contribution to [EDIT - a Electronic Database of Investment Treaties](https://edit.wti.org/treaty/publications).
 
