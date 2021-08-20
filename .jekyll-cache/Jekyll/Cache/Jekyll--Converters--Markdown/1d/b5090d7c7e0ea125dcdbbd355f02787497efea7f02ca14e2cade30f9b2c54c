@@ -1,7 +1,11 @@
-I"z<h3 id="ongoing">Ongoing</h3>
+I"<h3 id="ongoing">Ongoing</h3>
 <ul>
   <li>Understanding the connectedness amongst disciplines, <a href="/images/2020_wos_poster_raox_reduced.pdf">project poster</a>.</li>
-  <li><a href="https://datascience.ch/project/econmultiplex-multiplex-networks-in-international-trade/">EconMultiplex – Multiplex Networks in International Trade</a> in collaboration with <a href="https://datascience.ch/">Swiss Data Science Center</a>, Principal Investigator: Prof. Dr. Egger Peter.</li>
+  <li><a href="https://datascience.ch/project/econmultiplex-multiplex-networks-in-international-trade/">EconMultiplex – Multiplex Networks in International Trade</a> in collaboration with <a href="https://datascience.ch/">Swiss Data Science Center</a>, Principal Investigator: Prof. Dr. Egger Peter.
+    <ol>
+      <li>New Algorithm For Matching Chinese NBS Firm-level With Customs Data (with Peter Egger and Sebastiano Papini), China Economic Journal, forthcoming 2021, Taylor &amp; Francis.</li>
+    </ol>
+  </li>
   <li>Collaboration with Ebay on fraud detection projects, three papers (one under review, two published).
     <ol>
       <li><a href="https://arxiv.org/abs/1910.04499">DeGNN</a>, accepted at KDD 2021.</li>
@@ -77,6 +81,7 @@
   <li>Ongoing:
     <ul>
       <li>Xi Chen (jointly with Vincent Lohmann): Chinese dataset geocoding.</li>
+      <li>Rahul Rarade (jointly with Vincent Lohmann): data support in Science projects and ORBIS geocoding.</li>
     </ul>
   </li>
   <li>Past:
@@ -84,7 +89,7 @@
       <li>Zuoyue Li: a law database crawler and XML-based information extraction.</li>
       <li>Jiajing Feng, Xi Chen: information extraction from Chinese yearbooks.</li>
       <li>Daoye Wang: code management and extension of Chinese database matching.</li>
-      <li>Rahul Rarade (jointly with Vincent Lohmann): data support in Science projects and ORBIS geocoding.</li>
+      <li>Ada Langenfeld (jointly with Johannes Rausch): Improvement on the TableParser in DocParser.</li>
     </ul>
   </li>
 </ul>
@@ -103,11 +108,6 @@
       <li>Alfonso Amayuelas (MT jointly with Shuai Zhang, Ce Zhang): Neural logic reasoning in knowledge graphs.</li>
     </ul>
   </li>
-  <li>Forthcoming:
-    <ul>
-      <li>Ada Langenfeld (MT jointly with Johannes Rausch, Ce Zhang): Improvement on the TableParser in DocParser.</li>
-    </ul>
-  </li>
 </ul>
 
 <h3 id="grant">Grant</h3>
@@ -116,8 +116,9 @@
 </ul>
 
 <h3 id="my-master-thesis">My master thesis</h3>
-<p>Rao, Xi. Automatic Labeling of Articles in International Investment Agreements : Using Semi-supervised Learning and Word Embeddings (2017). (<a href="https://snis.ch/wp-content/uploads/2018/02/Masterarbeit_XRao_FS2017.pdf">Link</a>)
-	* A contribution to https://edit.wti.org/treaty/publications
-<!--todo: better formatting-->
-<!--add the sdsc, teaching, update the paper, see CV--></p>
+<p>Rao, Xi. Automatic Labeling of Articles in International Investment Agreements : Using Semi-supervised Learning and Word Embeddings (2017). (<a href="https://snis.ch/wp-content/uploads/2018/02/Masterarbeit_XRao_FS2017.pdf">Link</a>)</p>
+<ul>
+  <li>A contribution to <a href="https://edit.wti.org/treaty/publications">EDIT - a Electronic Database of Investment Treaties</a>.</li>
+</ul>
+
 :ET

@@ -61,6 +61,7 @@ permalink: /research/
   * Zuoyue Li: a law database crawler and XML-based information extraction.
   * Jiajing Feng, Xi Chen: information extraction from Chinese yearbooks.
   * Daoye Wang: code management and extension of Chinese database matching.
+  * Ada Langenfeld (jointly with Johannes Rausch): Improvement on the TableParser in DocParser.
   
 
 ### Master student supervision at DS3Lab (MT: master thesis, SP: semester project)
@@ -70,8 +71,8 @@ permalink: /research/
 * Ongoing: 
   * Clémence Lanfranchi (SP jointly with Shuai Zhang, Ce Zhang): Improving suspcious massive registration detection via temporal embedding methods in GNN. 
   * Alfonso Amayuelas (MT jointly with Shuai Zhang, Ce Zhang): Neural logic reasoning in knowledge graphs. 
-* Forthcoming:
-  * Ada Langenfeld (MT jointly with Johannes Rausch, Peter Egger, Ce Zhang): Improvement on the TableParser in DocParser.
+
+
 
 ### Grant 
 * [EconMultiplex](https://datascience.ch/project/econmultiplex-multiplex-networks-in-international-trade/) from Swiss Data Science Center (jointly with Sophia Ding and Peter Egger). 
