@@ -1,73 +1,9 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Research – Susie's Site – computational social sciences</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="computational social sciences">
-    <meta property="og:description" content="computational social sciences" />
-    
-    <meta name="author" content="Susie's Site" />
-
-    
-    <meta property="og:title" content="Research" />
-    <meta property="twitter:title" content="Research" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Susie's Site - computational social sciences" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://susierao.github.io/images/susiexr.jpg" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Susie's Site</a></h1>
-            <p class="site-description">computational social sciences</p>
-          </div>
-
-          <nav>
-            <a href="/research">Research</a>
-            <a href="/blog">Blog</a>
-            <a href="/about">About</a>
-            
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <article class="page">
-
-  <h1>Research</h1>
-
-  <div class="entry">
-    <h3 id="ongoing">Ongoing</h3>
+I"�<h3 id="ongoing">Ongoing</h3>
 <ul>
-  <li>Understanding the connectedness amongst disciplines, <a href="/images/2020_wos_poster_raox_reduced.pdf">project poster</a>.
-    <ol>
-      <li>Peter  Egger,  Susie  Rao,  and  Ce  Zhang. Understanding  the  Web  of  Science  Using  Deep  Learning:  a  Novel  Hierarchical Multi-class Multi-label Classification System (working paper).</li>
-      <li>Peter  Egger,  Susie  Rao,  and  Ce Zhang. A Meta-Science Documentation of Interdisciplinarity:  How we Evolve as One Scientific Community (working paper).</li>
-    </ol>
-  </li>
+  <li>Understanding the connectedness amongst disciplines, <a href="/images/2020_wos_poster_raox_reduced.pdf">project poster</a>.</li>
   <li><a href="https://datascience.ch/project/econmultiplex-multiplex-networks-in-international-trade/">EconMultiplex – Multiplex Networks in International Trade</a> in collaboration with <a href="https://datascience.ch/">Swiss Data Science Center</a>, Principal Investigator: Prof. Dr. Egger Peter.
     <ol>
-      <li>Egger, Peter, Susie Xi Rao, and Sebastiano Papini. “A new algorithm for matching Chinese NBS firm-level with customs data.” China Economic Journal 14.3 (2021): 311-335.</li>
-      <li>Peter Egger, Vincent Lohmann, and Susie Rao. How do Firms Choose Their Location: Evidence from China (working paper).</li>
+      <li>New Algorithm For Matching Chinese NBS Firm-level With Customs Data (with Peter Egger and Sebastiano Papini), China Economic Journal, forthcoming 2021, Taylor &amp; Francis.</li>
     </ol>
   </li>
   <li>Collaboration with Ebay on fraud detection projects, three papers published.
@@ -75,6 +11,7 @@
       <li><a href="https://arxiv.org/abs/1910.04499">DeGNN</a>, accepted at KDD 2021.</li>
       <li><a href="https://arxiv.org/abs/2011.12193">xFraud</a>, accepted at VLDB 2022.</li>
       <li><a href="https://arxiv.org/abs/2012.10831">DHGReg</a>, accepted in the AAAI Workshop on Deep Learning on Graphs 2021.</li>
+      <li></li>
     </ol>
   </li>
 </ul>
@@ -144,7 +81,6 @@
 <ul>
   <li>Ongoing:
     <ul>
-      <li>Ada Langenfeld (jointly with Johannes Rausch): Improvement on the TableParser in DocParser.</li>
       <li>Xi Chen (jointly with Vincent Lohmann): Chinese dataset geocoding.</li>
       <li>Rahul Rarade (jointly with Vincent Lohmann): data support in Science projects and ORBIS geocoding.</li>
     </ul>
@@ -154,21 +90,22 @@
       <li>Zuoyue Li: a law database crawler and XML-based information extraction.</li>
       <li>Jiajing Feng, Xi Chen: information extraction from Chinese yearbooks.</li>
       <li>Daoye Wang: code management and extension of Chinese database matching.</li>
+      <li>Ada Langenfeld (jointly with Johannes Rausch): Improvement on the TableParser in DocParser.</li>
     </ul>
   </li>
 </ul>
 
 <h3 id="master-student-supervision-at-ds3lab-mt-master-thesis-sp-semester-project">Master student supervision at DS3Lab (MT: master thesis, SP: semester project)</h3>
 <ul>
-  <li>Ongoing:
-    <ul>
-      <li>Clémence Lanfranchi (SP jointly with Shuai Zhang, Ce Zhang): Improving suspcious massive registration detection via temporal embedding methods in GNN.</li>
-    </ul>
-  </li>
   <li>Past:
     <ul>
       <li>Livio Kaiser (MT jointly with Johannes Rausch, Ce Zhang): Table element detection with weak supervision support from Excel data.</li>
       <li>Anton Maksimov (MT jointly with Shuai Zhang, Ce Zhang): Fraud detection in large-scale transaction graph using Hyperbolic Heterogeneous Graph Neural Networks.</li>
+    </ul>
+  </li>
+  <li>Ongoing:
+    <ul>
+      <li>Clémence Lanfranchi (SP jointly with Shuai Zhang, Ce Zhang): Improving suspcious massive registration detection via temporal embedding methods in GNN.</li>
       <li>Alfonso Amayuelas (MT jointly with Shuai Zhang, Ce Zhang): Neural logic reasoning in knowledge graphs.</li>
     </ul>
   </li>
@@ -185,33 +122,4 @@
   <li>A contribution to <a href="https://edit.wti.org/treaty/publications">EDIT - a Electronic Database of Investment Treaties</a>.</li>
 </ul>
 
-
-  </div>
-</article>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:rao@kof.ethz.ch"><i class="svg-icon email"></i></a>
-
-
-<a href="https://github.com/susierao"><i class="svg-icon github"></i></a>
-
-
-
-
-<a href="https://www.twitter.com/susierao"><i class="svg-icon twitter"></i></a>
-
-
-
-        </footer>
-      </div>
-    </div>
-
-    
-
-  </body>
-</html>
+:ET

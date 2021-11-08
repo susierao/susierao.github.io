@@ -1,4 +1,4 @@
-I"<h3 id="ongoing">Ongoing</h3>
+I"<h3 id="ongoing">Ongoing</h3>
 <ul>
   <li>Understanding the connectedness amongst disciplines, <a href="/images/2020_wos_poster_raox_reduced.pdf">project poster</a>.</li>
   <li><a href="https://datascience.ch/project/econmultiplex-multiplex-networks-in-international-trade/">EconMultiplex – Multiplex Networks in International Trade</a> in collaboration with <a href="https://datascience.ch/">Swiss Data Science Center</a>, Principal Investigator: Prof. Dr. Egger Peter.
@@ -9,7 +9,7 @@
   <li>Collaboration with Ebay on fraud detection projects, three papers (one under review, two published).
     <ol>
       <li><a href="https://arxiv.org/abs/1910.04499">DeGNN</a>, accepted at KDD 2021.</li>
-      <li><a href="https://arxiv.org/abs/2011.12193">xFraud</a>, revise and resubmit at VLDB 2022.</li>
+      <li><a href="https://arxiv.org/abs/2011.12193">xFraud</a>, accepted at VLDB 2022.</li>
       <li><a href="https://arxiv.org/abs/2012.10831">DHGReg</a>, accepted in the AAAI Workshop on Deep Learning on Graphs 2021.</li>
     </ol>
   </li>

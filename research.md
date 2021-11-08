@@ -6,13 +6,17 @@ permalink: /research/
 
 ### Ongoing
 * Understanding the connectedness amongst disciplines, [project poster](/images/2020_wos_poster_raox_reduced.pdf).
+  1. Peter  Egger,  Susie  Rao,  and  Ce  Zhang. Understanding  the  Web  of  Science  Using  Deep  Learning:  a  Novel  Hierarchical Multi-class Multi-label Classification System (working paper). 
+  2. Peter  Egger,  Susie  Rao,  and  Ce Zhang. A Meta-Science Documentation of Interdisciplinarity:  How we Evolve as One Scientific Community (working paper).
 * [EconMultiplex – Multiplex Networks in International Trade](https://datascience.ch/project/econmultiplex-multiplex-networks-in-international-trade/) in collaboration with [Swiss Data Science Center](https://datascience.ch/), Principal Investigator: Prof. Dr. Egger Peter.
-  1. New Algorithm For Matching Chinese NBS Firm-level With Customs Data (with Peter Egger and Sebastiano Papini), China Economic Journal, forthcoming 2021, Taylor & Francis.
+  1. Egger, Peter, Susie Xi Rao, and Sebastiano Papini. "A new algorithm for matching Chinese NBS firm-level with customs data." China Economic Journal 14.3 (2021): 311-335.
+  2. Peter Egger, Vincent Lohmann, and Susie Rao. How do Firms Choose Their Location: Evidence from China (working paper). 
 
-* Collaboration with Ebay on fraud detection projects, three papers (one under review, two published).
+* Collaboration with Ebay on fraud detection projects, three papers published.
 	1. [DeGNN](https://arxiv.org/abs/1910.04499), accepted at KDD 2021.
-	2. [xFraud](https://arxiv.org/abs/2011.12193), revise and resubmit at VLDB 2022.
+	2. [xFraud](https://arxiv.org/abs/2011.12193), accepted at VLDB 2022.
 	3. [DHGReg](https://arxiv.org/abs/2012.10831), accepted in the AAAI Workshop on Deep Learning on Graphs 2021. 
+
 
 ### [Publication @ Google scholar](https://scholar.google.com/citations?user=9Bes4hAAAAAJ&hl=en)
 
@@ -55,22 +59,25 @@ permalink: /research/
 
 ### Research assistant supervision at the Chair of Applied Economics
 * Ongoing: 
+  * Ada Langenfeld (jointly with Johannes Rausch): Improvement on the TableParser in DocParser.
   * Xi Chen (jointly with Vincent Lohmann): Chinese dataset geocoding. 
   * Rahul Rarade (jointly with Vincent Lohmann): data support in Science projects and ORBIS geocoding.
 * Past:
   * Zuoyue Li: a law database crawler and XML-based information extraction.
   * Jiajing Feng, Xi Chen: information extraction from Chinese yearbooks.
   * Daoye Wang: code management and extension of Chinese database matching.
-  * Ada Langenfeld (jointly with Johannes Rausch): Improvement on the TableParser in DocParser.
   
 
 ### Master student supervision at DS3Lab (MT: master thesis, SP: semester project)
+* Ongoing: 
+  * Clémence Lanfranchi (SP jointly with Shuai Zhang, Ce Zhang): Improving suspcious massive registration detection via temporal embedding methods in GNN. 
+
 * Past: 
   * Livio Kaiser (MT jointly with Johannes Rausch, Ce Zhang): Table element detection with weak supervision support from Excel data. 
   * Anton Maksimov (MT jointly with Shuai Zhang, Ce Zhang): Fraud detection in large-scale transaction graph using Hyperbolic Heterogeneous Graph Neural Networks.
-* Ongoing: 
-  * Clémence Lanfranchi (SP jointly with Shuai Zhang, Ce Zhang): Improving suspcious massive registration detection via temporal embedding methods in GNN. 
   * Alfonso Amayuelas (MT jointly with Shuai Zhang, Ce Zhang): Neural logic reasoning in knowledge graphs. 
+
+
 
 
 
