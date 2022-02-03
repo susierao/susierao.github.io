@@ -1,0 +1,58 @@
+I"<p><strong>SUSIE XI RAO / RESEARCHER / PHD CANDIDATE</strong><br /></p>
+<h3 id="affiliations">Affiliations</h3>
+
+<ul>
+  <li>DS3Lab, Department of Computer Science (INFK), ETH Zurich</li>
+  <li>Chair of Applied Economics,  Department of Management, Technology, and Economics (MTEC), ETH Zurich
+<br /></li>
+</ul>
+
+<h3 id="research-background-and-areas">Research background and areas</h3>
+<p>With a background in Computational Linguistics and Natural Language Processing, Susie Rao is now working as a Data Science researcher at the <a href="https://cae.ethz.ch">Chair of Applied Economics</a> and a PhD candidate at the <a href="ds3lab.org">DS3Lab</a> under the co-supervision <a href="https://scholar.google.ch/citations?user=GkXqbmMAAAAJ&amp;hl=en">Prof. Ce Zhang</a> (technical) and <a href="https://scholar.google.com/citations?user=Lc6rZrgAAAAJ&amp;hl=en">Prof. Peter Egger</a> (domain). She graduated from the Institute of Computational Linguistics of the University of Zurich (Director: <a href="https://scholar.google.com/citations?user=8bPj2w4AAAAJ&amp;hl=en">Prof. Martin Volk</a>).</p>
+
+<p>Her research interests are dynamic network analysis, information extraction, natural language processing and their applicability to various domains such as bibliometrics, e-commerce, applied economics, and biomedical.</p>
+
+<p>She has been working on the following research projects:</p>
+<ul>
+  <li>pattern matching and record linkage in large databases, e.g.,
+    <ul>
+      <li><a href="https://www.tandfonline.com/doi/pdf/10.1080/17538963.2021.1963046">record linkage in Chinese firm-level and transaction-level DBs</a> (finalized);</li>
+    </ul>
+  </li>
+  <li>information extraction and categorization in legal text such as international investment treaties and court cases, e.g.,
+    <ul>
+      <li><a href="https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/228391/3/jurix30_xrao_almostready.pdf.pdf">Automatic Labeling of Articles in International Investment Agreements (Machine Learning and Word Embeddings)</a> (finalized);</li>
+    </ul>
+  </li>
+  <li>fraud detection, e.g.,
+    <ul>
+      <li><a href="https://arxiv.org/abs/2011.12193">xFraud</a> (finalized);</li>
+      <li><a href="https://arxiv.org/abs/2012.10831">Dynamic HGNN</a> (ongoing);</li>
+      <li><a href="https://arxiv.org/abs/2110.04559">Real-time fraud detection</a> (ongoing);</li>
+    </ul>
+  </li>
+  <li>topology and endogeneity of firm-product-trade network and discipline connectedness in the “Web” of Science as well as the interplay between patents and scholarly publications (ongoing).
+    <ul>
+      <li><a href="Arxiv">Hierarchical classification of subfields in CS/Econ</a>.</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- ### More Information
+
+A place to include any other types of information that you'd like to include about yourself.-->
+
+<h3 id="contact-me-sraoethzch">Contact me: <a href="mailto:srao@ethz.ch">srao@ethz.ch</a></h3>
+
+<p>Recommended subject fields :-) e.g.,</p>
+<ul>
+  <li>[bachelor thesis]</li>
+  <li>[master thesis]</li>
+  <li>[semester project]</li>
+  <li>[collaboration]</li>
+</ul>
+
+<h3 id="related-links">Related links</h3>
+<p>For more infomation about DS3Lab, visit <a href="ds3lab.org">ds3lab.org</a>.<br />
+For more infomation about Chair of Applied Economics, visit <a href="https://cae.ethz.ch">https://cae.ethz.ch</a>.</p>
+:ET

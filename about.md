@@ -5,21 +5,45 @@ permalink: /about/
 ---
 
 __SUSIE XI RAO / RESEARCHER / PHD CANDIDATE__<br>
-_Systems Group / Department of Computer Science // KOF Swiss Economic Institute/ ETH Zurich_
+### Affiliations
 
-With a background in Computational Linguistics and Natural Language Processing, Susie Rao is now working as a Data Science researcher at the Swiss Economic Institute (KOF) and a PhD candidate at the DS3Lab under the co-supervision Prof. Ce Zhang (technical) and Prof. Peter Egger (domain). She graduated from the Institute of Computational Linguistics of the University of Zurich.
+- DS3Lab, Department of Computer Science (INFK), ETH Zurich
+- Chair of Applied Economics,  Department of Management, Technology, and Economics (MTEC), ETH Zurich
+<br> 
 
-Her research interests are dynamic network analysis, information extraction, natural language processing and their applicability to various domains such as applied economics, sociology, and biomedical.
+### Research background and areas
+With a background in Computational Linguistics and Natural Language Processing, Susie Rao is now working as a Data Science researcher at the [Chair of Applied Economics](https://cae.ethz.ch) and a PhD candidate at the [DS3Lab](ds3lab.org) under the co-supervision [Prof. Ce Zhang](https://scholar.google.ch/citations?user=GkXqbmMAAAAJ&hl=en) (technical) and [Prof. Peter Egger](https://scholar.google.com/citations?user=Lc6rZrgAAAAJ&hl=en) (domain). She graduated from the Institute of Computational Linguistics of the University of Zurich (Director: [Prof. Martin Volk](https://scholar.google.com/citations?user=8bPj2w4AAAAJ&hl=en)).
 
-She has been working on the following research projects: pattern matching and record linkage in large databases (finalized), information extraction and categorization in legal text such as international investment treaties and court cases (finalized), topology and endogeneity of firm-product-trade network and discipline connectedness in the Web of Science (ongoing).
 
-For more infomation about DS3Lab, visit [ds3lab.org](ds3lab.org)<br>
-For more infomation about KOF, visit [www.kof.ethz.ch/](www.kof.ethz.ch/)
+Her research interests are dynamic network analysis, information extraction, natural language processing and their applicability to various domains such as bibliometrics, e-commerce, and applied economics. 
+
+She has been working on the following research projects: 
+- pattern matching and record linkage in large databases, e.g.,
+  - [record linkage in Chinese firm-level and transaction-level DBs](https://www.tandfonline.com/doi/pdf/10.1080/17538963.2021.1963046) (finalized); 
+
+- information extraction and categorization in legal text such as international investment treaties and court cases, e.g.,
+  - [Automatic Labeling of Articles in International Investment Agreements (Machine Learning and Word Embeddings)](https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/228391/3/jurix30_xrao_almostready.pdf.pdf) (finalized); 
+
+- fraud detection, e.g.,
+  - [xFraud](https://arxiv.org/abs/2011.12193) (finalized); 
+  - [Dynamic HGNN](https://arxiv.org/abs/2012.10831) (ongoing);
+  - [Real-time fraud detection](https://arxiv.org/abs/2110.04559) (ongoing);
+
+- topology and endogeneity of firm-product-trade network and discipline connectedness in the "Web" of Science as well as the interplay between patents and scholarly publications (ongoing). 
+  - [Hierarchical classification of subfields in CS/Econ](Arxiv).
 
 <!-- ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.-->
 
-### Contact me
+### Contact me: [srao@ethz.ch](mailto:srao@ethz.ch)
 
-[rao@kof.ethz.ch](mailto:rao@kof.ethz.ch)
+Recommended subject fields :-) e.g., 
+- [bachelor thesis]
+- [master thesis]
+- [semester project]
+- [collaboration]
+
+### Related links
+For more infomation about DS3Lab, visit [ds3lab.org](ds3lab.org).<br>
+For more infomation about Chair of Applied Economics, visit [https://cae.ethz.ch](https://cae.ethz.ch).

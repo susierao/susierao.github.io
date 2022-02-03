@@ -1,0 +1,35 @@
+I"T	<p><strong>SUSIE XI RAO / RESEARCHER / PHD CANDIDATE</strong><br /></p>
+<ul>
+  <li>DS3Lab, Department of Computer Science (INFK), ETH Zurich</li>
+  <li>Chair of Applied Economics,  Department of Management, Technology, and Economics (MTEC), ETH Zurich
+<br /></li>
+</ul>
+
+<p>With a background in Computational Linguistics and Natural Language Processing, Susie Rao is now working as a Data Science researcher at the Chair of Applied Economics and a PhD candidate at the DS3Lab under the co-supervision Prof. Ce Zhang (technical) and Prof. Peter Egger (domain). She graduated from the Institute of Computational Linguistics of the University of Zurich.</p>
+
+<p>Her research interests are dynamic network analysis, information extraction, natural language processing and their applicability to various domains such as bibliometrics, e-commerce, applied economics, and biomedical.</p>
+
+<p>She has been working on the following research projects:</p>
+<ul>
+  <li>pattern matching and record linkage in large databases, e.g., <a href="https://www.tandfonline.com/doi/pdf/10.1080/17538963.2021.1963046">record linkage in Chinese firm-level and transaction-level DBs</a> (finalized);</li>
+  <li>information extraction and categorization in legal text such as international investment treaties and court cases, e.g., <a href="https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/228391/3/jurix30_xrao_almostready.pdf.pdf">Automatic Labeling of Articles in International Investment
+Agreements (Machine Learning and Word Embeddings)</a> (finalized);
+    <ul>
+      <li></li>
+    </ul>
+  </li>
+  <li>fraud detection (ongoing), e.g., <a href="https://arxiv.org/abs/2011.12193">xFraud</a>, <a href="https://arxiv.org/abs/2012.10831">Dynamic HGNN</a>;</li>
+  <li>topology and endogeneity of firm-product-trade network and discipline connectedness in the “Web” of Science as well as the interplay between patents and scholarly publications (ongoing).</li>
+</ul>
+
+<p>For more infomation about DS3Lab, visit <a href="ds3lab.org">ds3lab.org</a>.<br />
+For more infomation about Chair of Applied Economics, visit <a href="https://cae.ethz.ch">https://cae.ethz.ch</a>.</p>
+
+<!-- ### More Information
+
+A place to include any other types of information that you'd like to include about yourself.-->
+
+<h3 id="contact-me">Contact me</h3>
+
+<p><a href="mailto:srao@ethz.ch">srao@ethz.ch</a></p>
+:ET
