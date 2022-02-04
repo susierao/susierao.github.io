@@ -66,6 +66,7 @@ permalink: /research/
 ### Master student supervision at DS3Lab (BT: bachelor thesis, MT: master thesis, SP: semester project)
 * Ongoing: 
   * Georgios Tsolakis (BT jointly with Ce Zhang, Peter Egger): The influence of international trade agreement on firm-firm network. 
+  * [Piriyatamwong Piriyakorn](https://www.linkedin.com/in/ppiriyata/): Improving the hierarchical classification system for scientific disciplines.
 
 * Past: 
   * [Livio Kaiser](https://www.pfadi.li/kommunikation/online) (MT jointly with Johannes Rausch, Ce Zhang): Table element detection with weak supervision support from Excel data. 
