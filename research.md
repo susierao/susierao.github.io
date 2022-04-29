@@ -9,19 +9,31 @@ permalink: /research/
   1.   Peter  Egger,  Susie  Rao,  and  Ce  Zhang. [Hierarchical classification of subfields in CS/Econ (Arxiv)](Arxiv).
   2. Peter  Egger,  Susie  Rao,  and  Ce  Zhang. Understanding  the  Web  of  Science  Using  Deep  Learning:  a  Novel  Hierarchical Multi-class Multi-label Classification System (working paper). 
   3. Peter  Egger,  Susie  Rao,  and  Ce Zhang. A Meta-Science Documentation of Interdisciplinarity:  How we Evolve as One Scientific Community (working paper).
+
+
 * [EconMultiplex – Multiplex Networks in International Trade](https://datascience.ch/project/econmultiplex/) in collaboration with [Swiss Data Science Center](https://datascience.ch/), Principal Investigator: Prof. Dr. Egger Peter.
   1. Egger, Peter, Susie Xi Rao, and Sebastiano Papini. "A new algorithm for matching Chinese NBS firm-level with customs data." China Economic Journal 14.3 (2021): 311-335. ([paper](https://www.tandfonline.com/doi/full/10.1080/17538963.2021.1963046))
   2. Peter Egger, Vincent Lohmann, and Susie Rao. How do Firms Choose Their Location: Evidence from China (working paper). 
 
-* Collaboration with eBay on fraud detection projects, three papers published.
-	1. [DeGNN](https://arxiv.org/abs/1910.04499), accepted at KDD 2021.
-	2. [xFraud](https://arxiv.org/abs/2011.12193), accepted at VLDB 2022.
-	3. [DHGReg](https://arxiv.org/abs/2012.10831), accepted in the AAAI Workshop on Deep Learning on Graphs 2021. 
+
+* Collaboration with eBay on fraud detection projects, three papers published, one under review, one ongoing.
+  * Graph Decomposition: <br>
+   (1) [DeGNN](https://arxiv.org/abs/1910.04499), accepted at KDD 2021.
+  * Heterogeneous Graph and Fraud Detection:<br>
+   (2) [xFraud](https://arxiv.org/abs/2011.12193), accepted at VLDB 2022.
+  * Dynamic Graph and Fraud Detection: <br>
+   (3) [DHGReg](https://arxiv.org/abs/2012.10831), accepted in the AAAI Workshop on Deep Learning on Graphs 2021. <br>
+   (4) [DyHGN](https://arxiv.org/abs/2204.10614), under review.
+  * Real-time Fraud Detection with Lambda Architecture:<br>
+   (5) [LNN on DSS](https://arxiv.org/abs/2110.04559), ongoing. 
 
 
 ### [Publication @ Google scholar](https://scholar.google.com/citations?user=9Bes4hAAAAAJ&hl=en)
 
 ### Presentation
+<!-- * [xFraud] and [TableParser](https://arxiv.org/abs/2201.01654) -->
+* [xFraud: Explainable Fraud Detection](https://appliedmldays.org/events/amld-epfl-2022/talks/lightning-talk-xfraud-explainable-fraud-transaction-detection) (Applied Machine Learning Days 2022 ([AMLD](https://appliedmldays.org/events/amld-epfl-2022)), March 28, 2022): [paper](https://arxiv.org/abs/2011.12193), [video](https://youtu.be/oHGxcG5Uo7Y).
+
 * Automatic Document Parsing with Weak Supervision from Spreadsheets (virtual, SoDa Lab, Monash University).
   
 * [Automatic Document Parsing with Weak Supervision from Spreadsheets](https://www.swisstext.org/programme/) (virtual, SwissText2021; presenter: [Johannes Rausch](https://scholar.google.ch/citations?user=MfJxVYIAAAAJ&hl=en)).
@@ -53,7 +65,7 @@ permalink: /research/
 
 ### Research assistant supervision at the Chair of Applied Economics
 * Ongoing: 
-  * Rahul Rarade (jointly with Vincent Lohmann): data support in Science projects and ORBIS geocoding.
+  * [Rahul Rarade](https://imrahulr.github.io/) (jointly with Vincent Lohmann): data support in Science projects and ORBIS geocoding.
 
 * Past:
   * [Zuoyue Li](https://scholar.google.com/citations?user=UPH0tNgAAAAJ&hl=en): a law database crawler and XML-based information extraction.

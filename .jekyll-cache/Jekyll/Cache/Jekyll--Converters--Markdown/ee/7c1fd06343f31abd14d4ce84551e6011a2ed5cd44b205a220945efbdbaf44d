@@ -1,4 +1,4 @@
-I"Ó)<h3 id="ongoing">Ongoing</h3>
+I"û,<h3 id="ongoing">Ongoing</h3>
 <ul>
   <li>Understanding the connectedness amongst disciplines, <a href="/images/2020_wos_poster_raox_reduced.pdf">project poster</a>.
     <ol>
@@ -13,12 +13,18 @@
       <li>Peter Egger, Vincent Lohmann, and Susie Rao. How do Firms Choose Their Location: Evidence from China (working paper).</li>
     </ol>
   </li>
-  <li>Collaboration with eBay on fraud detection projects, three papers published.
-    <ol>
-      <li><a href="https://arxiv.org/abs/1910.04499">DeGNN</a>, accepted at KDD 2021.</li>
-      <li><a href="https://arxiv.org/abs/2011.12193">xFraud</a>, accepted at VLDB 2022.</li>
-      <li><a href="https://arxiv.org/abs/2012.10831">DHGReg</a>, accepted in the AAAI Workshop on Deep Learning on Graphs 2021.</li>
-    </ol>
+  <li>Collaboration with eBay on fraud detection projects, three papers published, one under review, one ongoing.
+    <ul>
+      <li>Graph Decomposition: <br />
+ (1) <a href="https://arxiv.org/abs/1910.04499">DeGNN</a>, accepted at KDD 2021.</li>
+      <li>Heterogeneous Graph and Fraud Detection:<br />
+ (2) <a href="https://arxiv.org/abs/2011.12193">xFraud</a>, accepted at VLDB 2022.</li>
+      <li>Dynamic Graph and Fraud Detection: <br />
+ (3) <a href="https://arxiv.org/abs/2012.10831">DHGReg</a>, accepted in the AAAI Workshop on Deep Learning on Graphs 2021. <br />
+ (4) <a href="https://arxiv.org/abs/2204.10614">DyHGN</a>, under review.</li>
+      <li>Real-time Fraud Detection with Lambda Architecture:<br />
+ (5) <a href="https://arxiv.org/abs/2110.04559">LNN on DSS</a>, ongoing.</li>
+    </ul>
   </li>
 </ul>
 
@@ -26,6 +32,9 @@
 
 <h3 id="presentation">Presentation</h3>
 <ul>
+  <li>
+    <p><a href="https://appliedmldays.org/events/amld-epfl-2022/talks/lightning-talk-xfraud-explainable-fraud-transaction-detection">xFraud: Explainable Fraud Detection</a> (Applied Machine Learning Days 2022 (<a href="https://appliedmldays.org/events/amld-epfl-2022">AMLD</a>), March 28, 2022): <a href="https://arxiv.org/abs/2011.12193">paper</a>, <a href="https://youtu.be/oHGxcG5Uo7Y">video</a>.</p>
+  </li>
   <li>
     <p>Automatic Document Parsing with Weak Supervision from Spreadsheets (virtual, SoDa Lab, Monash University).</p>
   </li>

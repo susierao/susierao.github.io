@@ -1,62 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Research – Susie's Site – computational social sciences</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="computational social sciences">
-    <meta property="og:description" content="computational social sciences" />
-    
-    <meta name="author" content="Susie's Site" />
-
-    
-    <meta property="og:title" content="Research" />
-    <meta property="twitter:title" content="Research" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Susie's Site - computational social sciences" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://susierao.github.io/images/susiexr.jpg" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Susie's Site</a></h1>
-            <p class="site-description">computational social sciences</p>
-          </div>
-
-          <nav>
-            <a href="/research">Research</a>
-            <a href="/blog">Blog</a>
-            <a href="/about">About</a>
-            
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <article class="page">
-
-  <h1>Research</h1>
-
-  <div class="entry">
-    <h3 id="ongoing">Ongoing</h3>
+I"2,<h3 id="ongoing">Ongoing</h3>
 <ul>
   <li>Understanding the connectedness amongst disciplines, <a href="/images/2020_wos_poster_raox_reduced.pdf">project poster</a>.
     <ol>
@@ -89,10 +31,9 @@
 <h3 id="publication--google-scholar"><a href="https://scholar.google.com/citations?user=9Bes4hAAAAAJ&amp;hl=en">Publication @ Google scholar</a></h3>
 
 <h3 id="presentation">Presentation</h3>
-<!-- * [xFraud] and [TableParser](https://arxiv.org/abs/2201.01654) -->
 <ul>
   <li>
-    <p><a href="https://appliedmldays.org/events/amld-epfl-2022/talks/lightning-talk-xfraud-explainable-fraud-transaction-detection">xFraud: Explainable Fraud Detection</a> (Applied Machine Learning Days 2022 (<a href="https://appliedmldays.org/events/amld-epfl-2022">AMLD</a>), March 28, 2022): <a href="https://arxiv.org/abs/2011.12193">paper</a>, <a href="https://youtu.be/oHGxcG5Uo7Y">video</a>.</p>
+    <p><a href="https://appliedmldays.org/events/amld-epfl-2022/talks/lightning-talk-xfraud-explainable-fraud-transaction-detection">xFraud</a>(Applied Machine Learning Days (AMLD), March 28, 2022).</p>
   </li>
   <li>
     <p>Automatic Document Parsing with Weak Supervision from Spreadsheets (virtual, SoDa Lab, Monash University).</p>
@@ -143,7 +84,7 @@
 <ul>
   <li>Ongoing:
     <ul>
-      <li><a href="https://imrahulr.github.io/">Rahul Rarade</a> (jointly with Vincent Lohmann): data support in Science projects and ORBIS geocoding.</li>
+      <li>Rahul Rarade (jointly with Vincent Lohmann): data support in Science projects and ORBIS geocoding.</li>
     </ul>
   </li>
   <li>Past:
@@ -209,33 +150,4 @@
     <p><a href="https://www.wids.ch/">Women in Data Science Conference 2019</a>, Zurich, Switzerland, 4-5 Apr 2019.</p>
   </li>
 </ul>
-
-  </div>
-</article>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:rao@kof.ethz.ch"><i class="svg-icon email"></i></a>
-
-
-<a href="https://github.com/susierao"><i class="svg-icon github"></i></a>
-
-
-
-
-<a href="https://www.twitter.com/susierao"><i class="svg-icon twitter"></i></a>
-
-
-
-        </footer>
-      </div>
-    </div>
-
-    
-
-  </body>
-</html>
+:ET

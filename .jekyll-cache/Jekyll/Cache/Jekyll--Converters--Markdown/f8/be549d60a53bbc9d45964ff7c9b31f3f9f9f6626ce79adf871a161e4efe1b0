@@ -1,4 +1,4 @@
-I"P)<h3 id="ongoing">Ongoing</h3>
+I",<h3 id="ongoing">Ongoing</h3>
 <ul>
   <li>Understanding the connectedness amongst disciplines, <a href="/images/2020_wos_poster_raox_reduced.pdf">project poster</a>.
     <ol>
@@ -13,12 +13,30 @@
       <li>Peter Egger, Vincent Lohmann, and Susie Rao. How do Firms Choose Their Location: Evidence from China (working paper).</li>
     </ol>
   </li>
-  <li>Collaboration with eBay on fraud detection projects, three papers published.
-    <ol>
-      <li><a href="https://arxiv.org/abs/1910.04499">DeGNN</a>, accepted at KDD 2021.</li>
-      <li><a href="https://arxiv.org/abs/2011.12193">xFraud</a>, accepted at VLDB 2022.</li>
-      <li><a href="https://arxiv.org/abs/2012.10831">DHGReg</a>, accepted in the AAAI Workshop on Deep Learning on Graphs 2021.</li>
-    </ol>
+  <li>Collaboration with eBay on fraud detection projects, three papers published, one under review, one ongoing.
+    <ul>
+      <li>Graph Decomposition:
+        <ol>
+          <li><a href="https://arxiv.org/abs/1910.04499">DeGNN</a>, accepted at KDD 2021.</li>
+        </ol>
+      </li>
+      <li>Heterogeneous Graph and Fraud Detection:
+        <ol>
+          <li><a href="https://arxiv.org/abs/2011.12193">xFraud</a>, accepted at VLDB 2022.</li>
+        </ol>
+      </li>
+      <li>Dynamic Graph and Fraud Detection:
+        <ol>
+          <li><a href="https://arxiv.org/abs/2012.10831">DHGReg</a>, accepted in the AAAI Workshop on Deep Learning on Graphs 2021.</li>
+          <li><a href="https://arxiv.org/abs/2204.10614">DyHGN</a>, under review.</li>
+        </ol>
+      </li>
+      <li>Real-time Fraud Detection with Lambda Architecture:
+        <ol>
+          <li><a href="https://arxiv.org/abs/2110.04559">LNN on DSS</a>, ongoing.</li>
+        </ol>
+      </li>
+    </ul>
   </li>
 </ul>
 
@@ -94,7 +112,7 @@
   <li>Ongoing:
     <ul>
       <li>Georgios Tsolakis (BT jointly with Ce Zhang, Peter Egger): The influence of international trade agreement on firm-firm network.</li>
-      <li>Piriyatamwong Piriyakorn</li>
+      <li><a href="https://www.linkedin.com/in/ppiriyata/">Piriyatamwong Piriyakorn</a>: Improving the hierarchical classification system for scientific disciplines.</li>
     </ul>
   </li>
   <li>Past:
