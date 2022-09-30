@@ -1,62 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Research – Susie's Site – computational social sciences</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="computational social sciences">
-    <meta property="og:description" content="computational social sciences" />
-    
-    <meta name="author" content="Susie's Site" />
-
-    
-    <meta property="og:title" content="Research" />
-    <meta property="twitter:title" content="Research" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Susie's Site - computational social sciences" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://susierao.github.io/images/susiexr.jpg" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Susie's Site</a></h1>
-            <p class="site-description">computational social sciences</p>
-          </div>
-
-          <nav>
-            <a href="/research">Research</a>
-            <a href="/blog">Blog</a>
-            <a href="/about">About</a>
-            
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <article class="page">
-
-  <h1>Research</h1>
-
-  <div class="entry">
-    <h3 id="ongoing">Ongoing</h3>
+I"�4<h3 id="ongoing">Ongoing</h3>
 <ul>
   <li>Collaboration with eBay on fraud detection projects, three papers published, one under review, one ongoing.
     <ul>
@@ -89,24 +31,7 @@
 
 <h3 id="publication--google-scholar"><a href="https://scholar.google.com/citations?user=9Bes4hAAAAAJ&amp;hl=en">Publication @ Google scholar</a></h3>
 
-<h3 id="presentation-and-talks">Presentation and Talks</h3>
-<h4 id="future">Future</h4>
-<ul>
-  <li>
-    <p>Our work <a href="https://arxiv.org/pdf/2205.13084.pdf">“BRIGHT - Graph Neural Networks in Real-Time Fraud Detection”</a> (in collab with eBay) got accepted at <a href="https://www.cikm2022.org/">CIKM2022</a>. The talk will be on Oct 20, 2022 (session: S10-F: ADVERTISING &amp; E-COMMERCE).</p>
-  </li>
-  <li>
-    <p>Last year’s presentation of my dissertation “Pattern Mining in Graph-structured Data” (November 4, 2022).</p>
-  </li>
-  <li>
-    <p>Guest lecture in “Fraud Detection” Seminar at HSLU - Hochschule Luzern (tba).</p>
-  </li>
-  <li>
-    <p>Data science night on “Fraud Detection” at FHNW - Fachhochschule Nordwestschweiz (March 30, 2023).</p>
-  </li>
-</ul>
-
-<h4 id="recent">Recent</h4>
+<h3 id="presentation">Presentation</h3>
 <ul>
   <li>
     <p>Talk on <a href="https://arxiv.org/pdf/2011.12193.pdf">“xFraud: Explainable Fraud Transaction Detection”</a> (in collab with eBay) at <a href="https://vldb.org/2022/">VLDB2022</a> (hybrid/virtual, September 7, 2022).</p>
@@ -175,13 +100,12 @@
 <ul>
   <li>Ongoing:
     <ul>
-      <li><a href="https://www.linkedin.com/in/ppiriyata/">Piriyatamwong Piriyakorn</a>: Support of science projects.</li>
-      <li><a href="https://www.linkedin.com/in/muyang-jiang-36a51a201/?originalSubdomain=cn">Muyang Jiang</a>: Support of Urban Economics and Remote Sensing.</li>
-      <li><a href="https://www.linkedin.com/in/yuru-jia-529640205/?originalSubdomain=ch">Yuru Jia</a>: Support of Urban Economics and Remote Sensing.</li>
+      <li></li>
     </ul>
   </li>
   <li>Past:
     <ul>
+      <li><a href="https://www.linkedin.com/in/ppiriyata/">Piriyatamwong Piriyakorn</a>: Support of science projects.</li>
       <li><a href="https://scholar.google.com/citations?user=UPH0tNgAAAAJ&amp;hl=en">Zuoyue Li</a>: a law database crawler and XML-based information extraction.</li>
       <li><a href="https://www.ccwd.uzh.ch/projects/2019_01_01-preventive_healthcare_in_malawi.html">Jiajing Feng</a>, <a href="https://ch.linkedin.com/in/xi-chen-001">Xi Chen</a>: information extraction from Chinese yearbooks.</li>
       <li><a href="https://ch.linkedin.com/in/daoye-wang">Daoye Wang</a>: code management and extension of Chinese database matching.</li>
@@ -196,7 +120,8 @@
 <ul>
   <li>Ongoing:
     <ul>
-      <li></li>
+      <li>Georgios Tsolakis (BT jointly with Ce Zhang, Peter Egger): The influence of international trade agreement on firm-firm network.</li>
+      <li><a href="https://www.linkedin.com/in/ppiriyata/">Piriyatamwong Piriyakorn</a>: Improving the hierarchical classification system for scientific disciplines.</li>
     </ul>
   </li>
   <li>Past:
@@ -205,8 +130,6 @@
       <li><a href="https://ch.linkedin.com/in/anton-maksimov">Anton Maksimov</a> (MT jointly with Shuai Zhang, Ce Zhang): Fraud detection in large-scale transaction graph using Hyperbolic Heterogeneous Graph Neural Networks.</li>
       <li><a href="https://ch.linkedin.com/in/alfonsoamayuelas">Alfonso Amayuelas</a> (MT jointly with Shuai Zhang, Ce Zhang): Neural logic reasoning in knowledge graphs, published in ICLR 2022 (<a href="https://openreview.net/forum?id=tgcAoUVHRIB">review</a>, <a href="https://openreview.net/pdf?id=tgcAoUVHRIB">paper</a>, <a href="todo">code</a>).</li>
       <li><a href="https://fr.linkedin.com/in/cl%C3%A9mence-lanfranchi-5b62ab172">Clémence Lanfranchi</a> (SP jointly with Shuai Zhang, Ce Zhang): Improving suspcious massive registration detection via temporal embedding methods in GNN.</li>
-      <li>Georgios Tsolakis (BT jointly with Ce Zhang, Peter Egger): The influence of international trade agreement on firm-firm network.</li>
-      <li><a href="https://www.linkedin.com/in/ppiriyata/">Piriyatamwong Piriyakorn</a>: Improving the hierarchical classification system for scientific disciplines.</li>
     </ul>
   </li>
 </ul>
@@ -227,16 +150,10 @@
 <h3 id="participation-besides-conference-presentations">Participation (besides conference presentations)</h3>
 <ul>
   <li>
-    <p><a href="https://www.cikm2022.org/">CIKM 2022</a>, virtual/Atlanta, 17-21 Oct, 2022.</p>
-  </li>
-  <li>
-    <p><a href="https://vldb.org/2022/">VLDB 2022</a>, virtual/Sydney, 5-9 Sep, 2022.</p>
-  </li>
-  <li>
     <p><a href="https://appliedmldays.org/events/amld-epfl-2022">Applied Machine Learning Days 2022 (AMLD)</a>), Lausanne, Switzerland, 26-30 March, 2022.</p>
   </li>
   <li>
-    <p><a href="https://www.swisstext.org/">SwissText 2022</a>, Lugano, Switzerland, 8-10 Jun, 2022.</p>
+    <p><a href="https://www.swisstext.org/">SwissText 2022</a>, Lugano, Switzerland, 7-10 Jun, 2022.</p>
   </li>
   <li>
     <p><a href="https://easychair.org/cfp/SwissText2021">SwissText 2021</a>, Brugg, Switzerland, 14-16 Jun, 2021.</p>
@@ -257,33 +174,4 @@
     <p><a href="http://grammars.grlmc.com/DeepLearn2017/">International Summer School on Deep Learning 2017</a>, Bilbao, Spain, 17-21 Jul 2017.</p>
   </li>
 </ul>
-
-  </div>
-</article>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:rao@kof.ethz.ch"><i class="svg-icon email"></i></a>
-
-
-<a href="https://github.com/susierao"><i class="svg-icon github"></i></a>
-
-
-
-
-<a href="https://www.twitter.com/susierao"><i class="svg-icon twitter"></i></a>
-
-
-
-        </footer>
-      </div>
-    </div>
-
-    
-
-  </body>
-</html>
+:ET

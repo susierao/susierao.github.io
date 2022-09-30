@@ -1,62 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Research – Susie's Site – computational social sciences</title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-
-    
-    <meta name="description" content="computational social sciences">
-    <meta property="og:description" content="computational social sciences" />
-    
-    <meta name="author" content="Susie's Site" />
-
-    
-    <meta property="og:title" content="Research" />
-    <meta property="twitter:title" content="Research" />
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Susie's Site - computational social sciences" href="/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="https://susierao.github.io/images/susiexr.jpg" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Susie's Site</a></h1>
-            <p class="site-description">computational social sciences</p>
-          </div>
-
-          <nav>
-            <a href="/research">Research</a>
-            <a href="/blog">Blog</a>
-            <a href="/about">About</a>
-            
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <article class="page">
-
-  <h1>Research</h1>
-
-  <div class="entry">
-    <h3 id="ongoing">Ongoing</h3>
+I"L7<h3 id="ongoing">Ongoing</h3>
 <ul>
   <li>Collaboration with eBay on fraud detection projects, three papers published, one under review, one ongoing.
     <ul>
@@ -91,21 +33,6 @@
 
 <h3 id="presentation-and-talks">Presentation and Talks</h3>
 <h4 id="future">Future</h4>
-<ul>
-  <li>
-    <p>Our work <a href="https://arxiv.org/pdf/2205.13084.pdf">“BRIGHT - Graph Neural Networks in Real-Time Fraud Detection”</a> (in collab with eBay) got accepted at <a href="https://www.cikm2022.org/">CIKM2022</a>. The talk will be on Oct 20, 2022 (session: S10-F: ADVERTISING &amp; E-COMMERCE).</p>
-  </li>
-  <li>
-    <p>Last year’s presentation of my dissertation “Pattern Mining in Graph-structured Data” (November 4, 2022).</p>
-  </li>
-  <li>
-    <p>Guest lecture in “Fraud Detection” Seminar at HSLU - Hochschule Luzern (tba).</p>
-  </li>
-  <li>
-    <p>Data science night on “Fraud Detection” at FHNW - Fachhochschule Nordwestschweiz (March 30, 2023).</p>
-  </li>
-</ul>
-
 <h4 id="recent">Recent</h4>
 <ul>
   <li>
@@ -257,33 +184,4 @@
     <p><a href="http://grammars.grlmc.com/DeepLearn2017/">International Summer School on Deep Learning 2017</a>, Bilbao, Spain, 17-21 Jul 2017.</p>
   </li>
 </ul>
-
-  </div>
-</article>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          
-<a href="mailto:rao@kof.ethz.ch"><i class="svg-icon email"></i></a>
-
-
-<a href="https://github.com/susierao"><i class="svg-icon github"></i></a>
-
-
-
-
-<a href="https://www.twitter.com/susierao"><i class="svg-icon twitter"></i></a>
-
-
-
-        </footer>
-      </div>
-    </div>
-
-    
-
-  </body>
-</html>
+:ET
