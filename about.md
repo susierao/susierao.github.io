@@ -26,8 +26,8 @@ She has been working on the following research projects:
 
 - fraud detection, e.g.,
   - [xFraud](https://arxiv.org/abs/2011.12193) (finalized); 
-  - [Dynamic HGNN](https://arxiv.org/abs/2012.10831) (ongoing);
-  - [Real-time fraud detection](https://arxiv.org/abs/2110.04559) (ongoing);
+  - [Dynamic HGNN](https://arxiv.org/abs/2012.10831) (finalized);
+  - [Real-time fraud detection](https://arxiv.org/pdf/2205.13084.pdf) (finalized);
 
 - topology and endogeneity of firm-product-trade network and discipline connectedness in the "Web" of Science as well as the interplay between patents and scholarly publications (ongoing). 
   - [Hierarchical classification of subfields in CS/Econ](Arxiv).
